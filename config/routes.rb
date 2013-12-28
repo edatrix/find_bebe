@@ -1,5 +1,8 @@
 FindBebe::Application.routes.draw do
   resources :announcements
+  root to: 'announcements#index'
+
+
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
