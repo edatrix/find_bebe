@@ -71,4 +71,5 @@ class AnnouncementsController < ApplicationController
     def announcement_params
       params.require(:announcement).permit(:title, :description, :zip_code, :image_url)
     end
+
 end

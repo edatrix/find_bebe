@@ -1,5 +1,6 @@
 FindBebe::Application.routes.draw do
   resources :announcements
+  resources :users
   root to: 'announcements#index'
 
 
