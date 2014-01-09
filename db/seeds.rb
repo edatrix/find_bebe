@@ -6,7 +6,7 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-Announcement.delete_all
+# Announcement.delete_all
 Announcement.create(:title => 'Find Bebe',
   :description =>
     "Find Bebe is a social pet finder app.",
