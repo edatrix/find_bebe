@@ -1,3 +1,3 @@
 == Find Bebe
 
-Find Bebe is a social petfinder app built by Lauren Spath Luhring using RoR.
+This repo is not current!  Find the true version of Find Bebe at https://github.com/edatrix/find_bebe_final.
